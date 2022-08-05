@@ -1,0 +1,149 @@
+/* First page*/
+.page1{
+  margin: 50px 0px 200px 0px;
+}
+
+.eden1{
+  text-align: center;
+  margin: 25px 100px;
+  padding: 100px 50px;
+  border: 100px 100px;
+}
+
+.firsttext{
+  color: black;
+  margin: 500px 0px -150px 0px;
+}
+
+.firstpara{
+  color: gray;
+  margin-top: 100px;
+  padding-top: 50px;
+  border: 100px;
+}
+
+.inputname1{
+  margin-right: 255px;
+  color: black;
+}
+
+.inputname2{
+  color: black;
+  margin-right: 240px;
+}
+
+.btn {
+  background: #6545e6;
+  background-image: -webkit-linear-gradient(top, #6545e6, #3c95c9);
+  background-image: -moz-linear-gradient(top, #6545e6, #3c95c9);
+  background-image: -ms-linear-gradient(top, #6545e6, #3c95c9);
+  background-image: -o-linear-gradient(top, #6545e6, #3c95c9);
+  background-image: linear-gradient(to bottom, #6545e6, #3c95c9);
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 50px 9px 40px;
+  text-decoration: none;
+  margin-top: 15px;
+  width: 40%;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+/*Second Page*/
+.page2{
+  margin: 50px 0px 200px 0px;
+}
+
+.eden2{
+  
+  text-align: center;
+  margin: 25px 100px;
+  padding: 100px 50px;
+  border: 100px 100px;
+}
+
+.secondtext{
+  color: black;
+  margin: 100px 0px -80px 0px;
+}
+.secondpara{
+  color: gray;
+  margin-top: 80px;
+  padding-top: 0px;
+  
+}
+
+.inputname3{
+  margin-right: 205px;
+  color: black;
+}
+
+.inputname4{
+  color: black;
+  margin-right: 150px;
+}
+
+/*Third Page*/
+.page3{
+  margin: 100px 0px 300px 0px;
+}
+
+.eden3{
+  text-align: center;
+  margin: 0px 50px 20px 0px;
+  padding: 0px 50px;
+  border: 0px 50px;
+}
+
+.thirdtext{
+  color: black;
+  margin: 100px 0px 0px 0px;
+}
+
+.thirdpara{
+  color: gray;
+  margin-bottom: 30px;
+  border: 50px;
+}
+
+.row{
+  color: black;
+}
+.card1{
+  width: fit-content;
+  float: right;
+}
+.card2{
+  width: fit-content;
+}
+
+.info-column{
+  background-color: whitesmoke;
+}
+
+/*Fourth Page*/
+.page4{
+  margin: 100px 0px 200px 500px;
+}
+
+.fourthtext{
+  color: black;
+}
+
+.fourthpara{
+  color: gray;
+  margin-bottom: 30px;
+  border: 50px;
+}
